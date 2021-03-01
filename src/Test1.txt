@@ -1,0 +1,4 @@
+FIS1A, Mat1A.
+Mat1A.
+KIM1A, Mat1A.
+BIO1A, FIS1A, KIM1A.

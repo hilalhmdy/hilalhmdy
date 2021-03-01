@@ -1,0 +1,5 @@
+Stima, OOP.
+OS, Stima, Matematika.
+OOP.
+Matematika, Stima, OOP.
+Basdat, OS, Matematika.

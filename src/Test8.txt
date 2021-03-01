@@ -1,0 +1,6 @@
+Stima, Matdis, Algeo.
+Algeo, Matek, Fis.
+Matdis, Matek.
+Fis.
+Matek.
+OOP, Stima.
